@@ -1,3 +1,5 @@
+![гифка](src/demo.gif?raw=true)
+
 ### Сначала установите http-server
 
 ```
