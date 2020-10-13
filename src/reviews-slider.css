@@ -4,12 +4,12 @@
 }
 
 .reviews-slider .slick-slide {
-    transition: all .3s;
-    transform: scale(0.9);
-    opacity: .5;
+  transition: all .3s;
+  transform: scale(0.9);
+  opacity: .5;
 }
     
-.reviews-slider .slick-slide.slick-current {
+.reviews-slider .slick-slide.slick-current, .reviews-slider .slick-slide:hover {
     transition: all .3s;
     transform: scale(1);
     opacity: 1;
